@@ -11,7 +11,7 @@ export default function Header (props){
                         >Save to Favorites
                     </button>
                 </div>
-                <h1 id='title'>TEST's Image of the Day</h1>
+                <h1 id='title'>NASA's Image of the Day</h1>
                 <div id='buttons'>
                     <button 
                         className='button'
